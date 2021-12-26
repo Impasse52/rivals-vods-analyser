@@ -1,1 +1,1 @@
-# rivals_vods_helper
+# rivals-ml
