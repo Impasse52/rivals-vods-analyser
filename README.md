@@ -1,5 +1,5 @@
-# rivals-ml
-Jupyter notebooks for creating and using Deep Learning models to analyze Rivals of Aether VODs.
+# rivals-vods-helper
+Jupyter notebooks for creating and using Deep Learning models to analyze Rivals of Aether replays.
 
 Links:
 - [Train](https://colab.research.google.com/drive/1-MDJPceeGYNDk09C0IffO6ZfO-2CchcT?usp=sharing)
