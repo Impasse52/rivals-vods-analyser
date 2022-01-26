@@ -1,4 +1,4 @@
-# rivals-vods-helper
+# rivals-vods-analyser
 Jupyter notebooks for creating and using Deep Learning models to analyze Rivals of Aether replays.
 
 Links:
